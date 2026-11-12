@@ -1,6 +1,6 @@
 # Quản Lý Sản Phẩm (Admin CRUD) — Flutter & Firebase Cloud Firestore
 
-Đề tài giữa kỳ môn **Lập trình Di động Đa nền tảng**: Ứng dụng quản lý danh mục sản phẩm dành cho quản trị viên (Admin), hỗ trợ đầy đủ các thao tác **Thêm – Xem – Sửa – Xóa (CRUD)**, đồng bộ dữ liệu theo thời gian thực (**real-time**) với **Firebase Cloud Firestore** và chạy đa nền tảng trên **Android** & **Web**.
+Đề tài giữa kỳ môn **Phát Triển Ứng Dụng Đa Nền Tảng**: Ứng dụng quản lý danh mục sản phẩm dành cho quản trị viên (Admin), hỗ trợ đầy đủ các thao tác **Thêm – Xem – Sửa – Xóa (CRUD)**, đồng bộ dữ liệu theo thời gian thực (**real-time**) với **Firebase Cloud Firestore** và chạy đa nền tảng trên **Android** & **Web**.
 
 ---
 
