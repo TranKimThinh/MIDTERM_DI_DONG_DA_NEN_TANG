@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924793890242",
+    "project_id": "midterm-di-dong-da-nen-tang",
+    "storage_bucket": "midterm-di-dong-da-nen-tang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924793890242:android:40ac1e81ee1c51c18b225b",
+        "android_client_info": {
+          "package_name": "com.example.midterm_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7M2Lm1XPApeDpSpyWJ2Ic8Q861krhmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
